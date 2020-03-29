@@ -1,0 +1,14 @@
+{
+  "name": "startng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "form.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
